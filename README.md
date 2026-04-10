@@ -119,7 +119,7 @@ developer@local
 | Technical Accuracy         | 3 / 5  | ⭐⭐⭐☆☆          |
 | Security & Compliance      | 3 / 5  | ⭐⭐⭐☆☆          |
 | Adherence to Standards     | 3 / 5  | ⭐⭐⭐☆☆          |
-| Code Quality / Readability | 1 / 5  | ⭐☆☆☆☆          |
+| Code Quality / Readability | 3 / 5  | ⭐⭐⭐☆☆          |
 | Documentation Completeness | 3 / 5  | ⭐⭐⭐☆☆          |
 | Reusability / Scalability  | 3 / 5  | ⭐⭐⭐☆☆          |
 
@@ -128,9 +128,9 @@ developer@local
 ### OverallStatus
 <!-- OVERALL_STATUS:START -->
 - ⬜ ✅ Approved
-- ✅ 🔁 Approved with Changes
+- ⬜ 🔁 Approved with Changes
 - ⬜ ❌ Rejected
-- ⬜ 🔍 Needs Re-review
+- ✅ 🔍 Needs Re-review
 <!-- END: Overall Status -->
 
 ### PriorityofChanges
@@ -139,8 +139,8 @@ developer@local
 |--------|----------|
 | 🔴 Critical | ⬜ |
 | 🟠 Major | ⬜ |
-| 🟡 Minor | ✅ |
-| ⚪ None | ⬜ |
+| 🟡 Minor | ⬜ |
+| ⚪ None | ✅ |
 <!-- END: Priority of Changes -->
 
 ### Re-reviewRequired?
@@ -153,7 +153,7 @@ developer@local
 
 ### Re-reviewDueDate
 <!-- REREVIEW_DUE_DATE:START -->
-
+2025-05-05
 <!-- END: REREVIEW_DUE_DATE -->
 
 <!-- END: SME Review -->
